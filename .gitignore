@@ -9,3 +9,4 @@ data/
 *.faiss
 chroma_db/
 v1.ipynb
+scratch.py
